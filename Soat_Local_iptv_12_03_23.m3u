@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:0,Discovery Turbo UDP
+#EXTGRP:Variados
+http://192.168.2.40:7512/play/discoveryturbo
+#EXTINF:0,El Gourmet UDP
+#EXTGRP:Variados
+http://192.168.2.40:7512/play/elgourmet
+#EXTINF:0,HGTV UDP
+#EXTGRP:Variados
+http://192.168.2.40:7512/play/hgtv
+#EXTINF:0,ID HD
+#EXTGRP:Variados
+http://192.168.2.40:7512/play/id
+#EXTINF:0,Pasiones HD
+#EXTGRP:Variados
+http://192.168.2.40:7512/play/pasiones
+#EXTINF:0,Animal Planet HD UDP
+#EXTGRP:Documentales
+http://192.168.2.40:7512/play/animalplanet
+#EXTINF:0,Discovery HyH HD
+#EXTGRP:Documentales
+http://192.168.2.40:7512/play/dicoveryhyh
+#EXTINF:0,Discovery HD UDP
+#EXTGRP:Documentales
+http://192.168.2.40:7512/play/discovery
+#EXTINF:0,Love Nature HD UDP
+#EXTGRP:Documentales
+http://192.168.2.40:7512/play/lovenature
+#EXTINF:0,Nat Geo HD UDP
+#EXTGRP:Documentales
+http://192.168.2.40:7512/play/natgeo
+#EXTINF:0,Caracol HD UDP
+#EXTGRP:Nacionales
+http://192.168.2.40:7512/play/caracol
+#EXTINF:0,RCN HD UDP
+#EXTGRP:Nacionales
+http://192.168.2.40:7512/play/rcn
+#EXTINF:0,Suram tv UDP
+#EXTGRP:Nacionales
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:0,Discovery Kids HD UDP
+#EXTGRP:Infantiles
+http://192.168.2.40:7512/play/discoverykids
+#EXTINF:0,Disney HD UDP
+#EXTGRP:Infantiles
+http://192.168.2.40:7512/play/disney
+#EXTINF:0,AMC HD UDP
+#EXTGRP:Peliculas
+http://192.168.2.40:7512/play/amc
+#EXTINF:0,Cinecanal HD UDP
+#EXTGRP:Peliculas
+http://192.168.2.40:7512/play/cinecanal
+#EXTINF:0,DHE HD
+#EXTGRP:Peliculas
+http://192.168.2.40:7512/play/dhe
+#EXTINF:0,FX HD UDP
+#EXTGRP:Peliculas
+http://192.168.2.40:7512/play/fx
+#EXTINF:0,STAR CHANNEL HD UDP
+#EXTGRP:Peliculas
+http://192.168.2.40:7512/play/starchannel
+#EXTINF:0,ESPN 2 HD UDP
+#EXTGRP:Deportes
+http://192.168.2.40:7512/play/espn2
+#EXTINF:0,ESPN 4 HD UDP
+#EXTGRP:Deportes
+http://192.168.2.40:7512/play/espn4
+#EXTINF:0,ESPN HD UDP
+#EXTGRP:Deportes
+http://192.168.2.40:7512/play/espn
+#EXTINF:0,FOX Sports 2 HD UDP
+#EXTGRP:Deportes
+http://192.168.2.40:7512/play/foxsports2
+#EXTINF:0,Fox Sports 3 HD UDP
+#EXTGRP:Deportes
+http://192.168.2.40:7512/play/foxsports3
+#EXTINF:0,Playboy HD
+#EXTGRP:Adultos
+http://192.168.2.40:7512/play/playboy
